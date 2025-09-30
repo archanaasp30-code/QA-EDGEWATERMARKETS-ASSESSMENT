@@ -15,5 +15,5 @@ The automation covers:
 
 1. *Clone the repository*
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/archanaasp30-code/QA-EDGEWATERMARKETS-ASSESSMENT>
    cd demoblaze-playwright
